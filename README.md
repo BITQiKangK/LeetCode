@@ -1,0 +1,2 @@
+# LeetCode
+本仓库用于记录个人在LeetCode刷题时的笔记和题解
